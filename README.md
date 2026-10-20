@@ -40,17 +40,34 @@ An interactive game where you compete against the computer.
 - Score tracking for the player and computer
 - Messages indicating wins, losses, and draws
 
+### 4. Currency Converter
+
+A web-based currency converter that allows users to convert an amount from one currency to another using exchange-rate data from an external API.
+
+**Technologies:** HTML, CSS, JavaScript, CurrencyAPI
+
+**Features:**
+- Currency selection using dropdown menus
+- Exchange-rate retrieval through an API
+- Dynamic conversion based on the entered amount
+- Currency flag icons
+- Asynchronous API requests using `async/await`
+- Error handling for failed API requests
+
 ## 🛠️ Technologies Used
 
 - **HTML5** — Webpage structure
 - **CSS3** — Styling and layouts
-- **JavaScript** — Game logic and interactivity
+- **JavaScript** — Game logic, interactivity, and API integration
+- **REST APIs** — Fetching exchange-rate data
+- **Git & GitHub** — Version control and project management
 
 ## 🎯 Goals
 
 - Strengthen frontend development fundamentals.
 - Apply programming concepts through practical projects.
 - Build interactive and visually appealing web experiences.
+- Learn to integrate external APIs into web applications.
 - Explore new technologies and expand my portfolio.
 
 ## 📌 Future Plans
