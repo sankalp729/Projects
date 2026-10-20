@@ -52,7 +52,6 @@ A web-based currency converter that allows users to convert an amount from one c
 - Dynamic conversion based on the entered amount
 - Currency flag icons
 - Asynchronous API requests using `async/await`
-- Error handling for failed API requests
 
 ## 🛠️ Technologies Used
 
