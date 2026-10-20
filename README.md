@@ -16,6 +16,8 @@ A frontend clone of the Amazon homepage, recreating its layout and visual design
 - Hero section and footer
 - Styling inspired by Amazon's homepage
 
+🔗 **[Live Demo](https://sankalp729.github.io/Projects/amazon)**
+
 ### 2. Tic-Tac-Toe Game
 
 A classic two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
@@ -28,6 +30,8 @@ A classic two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - Reset game and new game options
 - Dynamic game status messages
 
+🔗 **[Live Demo](https://sankalp729.github.io/Projects/tic-tac-toe)**
+
 ### 3. Stone Paper Scissors Game
 
 An interactive game where you compete against the computer.
@@ -39,6 +43,8 @@ An interactive game where you compete against the computer.
 - Computer-generated moves
 - Score tracking for the player and computer
 - Messages indicating wins, losses, and draws
+
+🔗 **[Live Demo](https://sankalp729.github.io/Projects/stone-paper-scissor)**
 
 ### 4. Currency Converter
 
@@ -53,11 +59,13 @@ A web-based currency converter that allows users to convert an amount from one c
 - Currency flag icons
 - Asynchronous API requests using `async/await`
 
+🔗 **[Live Demo](https://sankalp729.github.io/Projects/currency_converter)**
+
 ## 🛠️ Technologies Used
 
 - **HTML5** — Webpage structure
 - **CSS3** — Styling and layouts
-- **JavaScript** — Game logic, interactivity, and API integration
+- **JavaScript** — Game logic and interactivity
 - **REST APIs** — Fetching exchange-rate data
 - **Git & GitHub** — Version control and project management
 
@@ -66,8 +74,8 @@ A web-based currency converter that allows users to convert an amount from one c
 - Strengthen frontend development fundamentals.
 - Apply programming concepts through practical projects.
 - Build interactive and visually appealing web experiences.
-- Learn to integrate external APIs into web applications.
-- Explore new technologies and expand my portfolio.
+- Explore external API integration.
+- Expand my software development portfolio.
 
 ## 📌 Future Plans
 
